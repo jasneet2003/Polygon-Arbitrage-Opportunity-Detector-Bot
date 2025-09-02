@@ -40,5 +40,6 @@ A simple and efficient bot built in Rust that detects potential arbitrage opport
 
 **2. Clone the Repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/jasneet2003/Polygon-Arbitrage-Opportunity-Detector-Bot>
+
    cd arbitrage_bot
